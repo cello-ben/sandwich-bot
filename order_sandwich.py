@@ -2,7 +2,7 @@ import time
 import sys
 from selenium import webdriver
 
-chromedriver_location = '/Users/celloben/Downloads/chromedriver'
+chromedriver_location = '/your/chromedriver/location'
 
 pick_store = '//*[@id="product-details"]/div/div[2]/div/div[3]/button'
 zip_input = '//*[@id="input_ZIPorCity,Stateorstorenumber42"]'
